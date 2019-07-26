@@ -1,0 +1,178 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.header{
+	background-image: url(../img/girl-pic.png);
+	background-size: cover;
+	height: 700px;
+}
+.shadow{
+	background: rgba(0,0,0,0.6);
+    background-size: cover;
+    height: 700px;
+}
+.header .container{
+	padding-top: 55px;
+	padding-bottom: 80px;
+}
+.logo{
+	padding: 10px;
+}
+.manue{
+	    margin-left: 170px;
+    margin-top: 17px;
+}
+}
+.manue ul{
+	list-style: none;
+    padding-top: 16px;
+    font-size: 15px;
+}
+.manue ul li{
+
+	display: inline;
+    padding-right: 53px;
+    color: white;
+}
+
+.manue ul a{
+	text-decoration: none;
+	color: white;
+
+}
+.callus{
+	margin-top: 35px;
+}
+.callus h1{
+color: white;
+background-color: rgba;
+background: rgba(0,0,0,0.3);
+text-align: center;
+margin-top: 16px;
+margin-bottom: 40px;
+padding: 15px 0px;
+
+}
+.callus p{
+	    color: #fff;
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.callus .underline{
+	border-bottom: 1px solid white;
+    width: 10%;
+    display: block;
+    margin-bottom: 88px;
+
+}
+.callus button{
+	outline: none;
+	border: 2px solid bisque;
+	color: white;
+	padding: 9px 71px;
+	background: transparent;
+
+}
+.callus button a{
+	color: white;
+    font-size: 20px;
+}
+.first{
+	background: #f6f6f6;
+	padding-top: 100px;
+	padding-bottom: 0px
+
+}
+.first .firstone{
+
+}
+.first h2{
+	ont-size: 36px;
+    font-weight: bold;
+    color: #333333;
+
+}
+.first .underline2{
+	border-bottom: 2px solid black;
+    width: 10%;
+    padding-top: 18px;
+    display: block;
+}
+.first p{
+	padding-top: 40px;
+    font-size: 15px;
+    color: #888888;
+
+}
+.secondtwo .rectangal{
+	position: relative;
+    width: 103%;
+    top: 15px;
+    right: 68px;
+    height: 118%;
+}
+.secondtwo .car{
+	left: 220px;
+    position: absolute;
+    width: 60%;
+    top: 51px;
+}
+.second{
+	background: #28282e;
+    padding-top: 100px;
+    padding-bottom: 75px;
+
+}
+.second .b{
+
+
+}
+.second h2{
+	 color: white;
+    font-weight: bold;
+    font-size: 36px;
+
+}
+.second p{
+	color: #fff;
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+
+}
+.second .underline3{
+	border-bottom: 1px solid white;
+    width: 10%;
+    padding-top: 20px;
+    display: block;
+}
+.second button{
+	outline: none;
+	border: 2px solid bisque;
+	color: white;
+	padding: 9px 40px;
+	background: transparent;
+
+}
+.second button a{
+	color: white;
+    font-size: 20px;
+}
+
+.second .cars{
+	left: 2px;
+	position: absolute;
+	width: 108%;
+	top: 51px;
+}
+.bottom{
+	padding: 28px 0px;
+    background: #ef4035;
+}
+.bottom p{
+	text-align: center;
+    font-size: 14px;
+    color: #fff;
+}
